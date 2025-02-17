@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Printscreen extends StatefulWidget {
+  const Printscreen({super.key});
+
   @override
   State<Printscreen> createState() => _PrintscreenState();
 }

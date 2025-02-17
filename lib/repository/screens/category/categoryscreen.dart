@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Categoryscreen extends StatefulWidget {
+  const Categoryscreen({super.key});
+
   @override
   State<Categoryscreen> createState() => _CategoryscreenState();
 }
